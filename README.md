@@ -10,6 +10,7 @@ This project enhances an RDF (Resource Description Framework) graph by generatin
 - [How it Works](#how-it-works)
 - [Logging](#logging)
 - [Dependencies](#dependencies)
+- [Related Works](#related-works)
 - [License](#license)
 
 ## Introduction
