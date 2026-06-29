@@ -1,4 +1,4 @@
-# rdf-augmenter — Ontology-Aware RDF Knowledge Graph Augmentation
+# rdf-augmenter: Ontology-Aware RDF Knowledge Graph Augmentation
 
 > Add synonyms, hypernyms (types) and related concepts to any RDF knowledge
 > graph — reproducibly, with provenance, and with SHACL-ready output.
