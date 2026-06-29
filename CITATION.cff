@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: "rdf-augmenter: Ontology-Aware Augmentation of RDF Knowledge Graphs"
+message: "If you use this software, please cite both the software and the associated article below."
+type: software
+authors:
+  - given-names: Jorge
+    family-names: Martinez-Gil
+    email: jorgemarcc@gmail.com
+repository-code: "https://github.com/jorge-martinez-gil/rdf-augmenter"
+url: "https://github.com/jorge-martinez-gil/rdf-augmenter"
+abstract: >-
+  rdf-augmenter is an open toolkit for augmenting RDF knowledge graphs with
+  semantically related terms (synonyms, hypernyms, and related concepts) under
+  pluggable backends, with reproducibility seeds, W3C PROV-O provenance, and
+  SHACL-ready output. It is designed as research infrastructure for the
+  Semantic Web and knowledge-graph community.
+keywords:
+  - RDF
+  - knowledge graph augmentation
+  - RDF data augmentation
+  - ontology-aware augmentation
+  - graph completion
+  - semantic web
+  - SKOS
+  - SHACL
+license: MIT
+version: 0.2.0
+preferred-citation:
+  type: article
+  title: "Knowledge Graph Augmentation for Increased Question Answering Accuracy"
+  authors:
+    - given-names: Jorge
+      family-names: Martinez-Gil
+    - given-names: Shaoyi
+      family-names: Yin
+    - given-names: Josef
+      family-names: Küng
+    - given-names: Franck
+      family-names: Morvan
+  journal: "Transactions on Large-Scale Data- and Knowledge-Centered Systems"
+  volume: 52
+  start: 70
+  end: 85
+  year: 2022
+  doi: "10.1007/978-3-662-66146-8_3"
+  url: "https://doi.org/10.1007/978-3-662-66146-8_3"

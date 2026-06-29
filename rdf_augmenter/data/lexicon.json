@@ -1,0 +1,672 @@
+{
+  "accountant": {
+    "hypernyms": [
+      "professional",
+      "financial specialist"
+    ],
+    "related": [
+      "accounting",
+      "finance",
+      "taxation",
+      "audit"
+    ],
+    "synonyms": [
+      "bookkeeper",
+      "auditor"
+    ]
+  },
+  "analyst": {
+    "hypernyms": [
+      "professional",
+      "specialist"
+    ],
+    "related": [
+      "analysis",
+      "data",
+      "reporting",
+      "insight"
+    ],
+    "synonyms": [
+      "examiner",
+      "evaluator"
+    ]
+  },
+  "architect": {
+    "hypernyms": [
+      "designer",
+      "professional",
+      "engineer"
+    ],
+    "related": [
+      "architecture",
+      "blueprint",
+      "construction",
+      "urban planning"
+    ],
+    "synonyms": [
+      "building designer",
+      "master builder"
+    ]
+  },
+  "biologist": {
+    "hypernyms": [
+      "scientist",
+      "professional",
+      "researcher"
+    ],
+    "related": [
+      "biology",
+      "cells",
+      "organisms",
+      "laboratory"
+    ],
+    "synonyms": [
+      "life scientist"
+    ]
+  },
+  "carpenter": {
+    "hypernyms": [
+      "tradesperson",
+      "professional",
+      "artisan"
+    ],
+    "related": [
+      "carpentry",
+      "wood",
+      "furniture",
+      "construction"
+    ],
+    "synonyms": [
+      "woodworker",
+      "joiner"
+    ]
+  },
+  "chef": {
+    "hypernyms": [
+      "professional",
+      "artisan"
+    ],
+    "related": [
+      "cooking",
+      "cuisine",
+      "restaurant",
+      "recipes"
+    ],
+    "synonyms": [
+      "cook",
+      "culinary artist"
+    ]
+  },
+  "chemist": {
+    "hypernyms": [
+      "scientist",
+      "professional",
+      "researcher"
+    ],
+    "related": [
+      "chemistry",
+      "reactions",
+      "laboratory",
+      "molecules"
+    ],
+    "synonyms": [
+      "chemical scientist"
+    ]
+  },
+  "consultant": {
+    "hypernyms": [
+      "professional",
+      "expert"
+    ],
+    "related": [
+      "consulting",
+      "advice",
+      "strategy",
+      "expertise"
+    ],
+    "synonyms": [
+      "advisor",
+      "specialist"
+    ]
+  },
+  "data scientist": {
+    "hypernyms": [
+      "scientist",
+      "professional",
+      "analyst"
+    ],
+    "related": [
+      "statistics",
+      "machine learning",
+      "programming",
+      "data visualization"
+    ],
+    "synonyms": [
+      "data analyst",
+      "machine learning engineer",
+      "data miner"
+    ]
+  },
+  "dentist": {
+    "hypernyms": [
+      "medical practitioner",
+      "professional",
+      "healthcare worker"
+    ],
+    "related": [
+      "dentistry",
+      "teeth",
+      "oral health",
+      "clinic"
+    ],
+    "synonyms": [
+      "dental surgeon",
+      "odontologist"
+    ]
+  },
+  "designer": {
+    "hypernyms": [
+      "professional",
+      "creator"
+    ],
+    "related": [
+      "design",
+      "graphics",
+      "creativity",
+      "aesthetics"
+    ],
+    "synonyms": [
+      "creative",
+      "design specialist"
+    ]
+  },
+  "economist": {
+    "hypernyms": [
+      "social scientist",
+      "professional",
+      "analyst"
+    ],
+    "related": [
+      "economics",
+      "markets",
+      "policy",
+      "statistics"
+    ],
+    "synonyms": [
+      "economic analyst"
+    ]
+  },
+  "electrician": {
+    "hypernyms": [
+      "tradesperson",
+      "professional",
+      "technician"
+    ],
+    "related": [
+      "electricity",
+      "wiring",
+      "circuits",
+      "maintenance"
+    ],
+    "synonyms": [
+      "electrical technician"
+    ]
+  },
+  "engineer": {
+    "hypernyms": [
+      "professional",
+      "designer"
+    ],
+    "related": [
+      "engineering",
+      "design",
+      "mathematics",
+      "technology"
+    ],
+    "synonyms": [
+      "technologist"
+    ]
+  },
+  "entrepreneur": {
+    "hypernyms": [
+      "professional",
+      "leader"
+    ],
+    "related": [
+      "business",
+      "startup",
+      "innovation",
+      "venture"
+    ],
+    "synonyms": [
+      "founder",
+      "businessperson"
+    ]
+  },
+  "farmer": {
+    "hypernyms": [
+      "professional",
+      "producer"
+    ],
+    "related": [
+      "agriculture",
+      "crops",
+      "livestock",
+      "farm"
+    ],
+    "synonyms": [
+      "agriculturist",
+      "grower"
+    ]
+  },
+  "firefighter": {
+    "hypernyms": [
+      "public servant",
+      "professional",
+      "first responder"
+    ],
+    "related": [
+      "fire",
+      "rescue",
+      "emergency",
+      "safety"
+    ],
+    "synonyms": [
+      "fireman"
+    ]
+  },
+  "journalist": {
+    "hypernyms": [
+      "writer",
+      "professional",
+      "communicator"
+    ],
+    "related": [
+      "news",
+      "media",
+      "interview",
+      "press"
+    ],
+    "synonyms": [
+      "reporter",
+      "correspondent",
+      "newswriter"
+    ]
+  },
+  "lawyer": {
+    "hypernyms": [
+      "professional",
+      "legal practitioner",
+      "advisor"
+    ],
+    "related": [
+      "law",
+      "court",
+      "litigation",
+      "contract"
+    ],
+    "synonyms": [
+      "attorney",
+      "advocate",
+      "counsel",
+      "solicitor"
+    ]
+  },
+  "manager": {
+    "hypernyms": [
+      "professional",
+      "leader"
+    ],
+    "related": [
+      "management",
+      "leadership",
+      "organization",
+      "strategy"
+    ],
+    "synonyms": [
+      "administrator",
+      "supervisor",
+      "director"
+    ]
+  },
+  "musician": {
+    "hypernyms": [
+      "artist",
+      "professional",
+      "performer"
+    ],
+    "related": [
+      "music",
+      "instrument",
+      "performance",
+      "composition"
+    ],
+    "synonyms": [
+      "instrumentalist",
+      "performer",
+      "artist"
+    ]
+  },
+  "nurse": {
+    "hypernyms": [
+      "healthcare worker",
+      "professional",
+      "medical practitioner"
+    ],
+    "related": [
+      "patient care",
+      "hospital",
+      "medicine",
+      "clinic"
+    ],
+    "synonyms": [
+      "caregiver",
+      "registered nurse"
+    ]
+  },
+  "painter": {
+    "hypernyms": [
+      "artist",
+      "professional",
+      "creator"
+    ],
+    "related": [
+      "painting",
+      "canvas",
+      "color",
+      "art"
+    ],
+    "synonyms": [
+      "artist",
+      "fine artist"
+    ]
+  },
+  "pharmacist": {
+    "hypernyms": [
+      "healthcare worker",
+      "professional",
+      "medical practitioner"
+    ],
+    "related": [
+      "pharmacy",
+      "medication",
+      "prescription",
+      "drugs"
+    ],
+    "synonyms": [
+      "chemist",
+      "apothecary"
+    ]
+  },
+  "physician": {
+    "hypernyms": [
+      "medical practitioner",
+      "professional",
+      "healthcare worker"
+    ],
+    "related": [
+      "medicine",
+      "diagnosis",
+      "patient",
+      "clinic"
+    ],
+    "synonyms": [
+      "doctor",
+      "medical doctor"
+    ]
+  },
+  "physicist": {
+    "hypernyms": [
+      "scientist",
+      "professional",
+      "researcher"
+    ],
+    "related": [
+      "physics",
+      "energy",
+      "matter",
+      "experiment"
+    ],
+    "synonyms": [
+      "physical scientist"
+    ]
+  },
+  "pilot": {
+    "hypernyms": [
+      "professional",
+      "operator"
+    ],
+    "related": [
+      "aviation",
+      "aircraft",
+      "flight",
+      "airport"
+    ],
+    "synonyms": [
+      "aviator",
+      "airman"
+    ]
+  },
+  "plumber": {
+    "hypernyms": [
+      "tradesperson",
+      "professional",
+      "technician"
+    ],
+    "related": [
+      "plumbing",
+      "pipes",
+      "water",
+      "repair"
+    ],
+    "synonyms": [
+      "pipefitter"
+    ]
+  },
+  "police officer": {
+    "hypernyms": [
+      "public servant",
+      "professional",
+      "officer"
+    ],
+    "related": [
+      "law enforcement",
+      "safety",
+      "crime",
+      "patrol"
+    ],
+    "synonyms": [
+      "policeman",
+      "constable",
+      "cop"
+    ]
+  },
+  "professor": {
+    "hypernyms": [
+      "educator",
+      "professional",
+      "researcher"
+    ],
+    "related": [
+      "university",
+      "research",
+      "teaching",
+      "scholarship"
+    ],
+    "synonyms": [
+      "academic",
+      "lecturer",
+      "faculty member"
+    ]
+  },
+  "psychologist": {
+    "hypernyms": [
+      "social scientist",
+      "professional",
+      "healthcare worker"
+    ],
+    "related": [
+      "psychology",
+      "behavior",
+      "therapy",
+      "mind"
+    ],
+    "synonyms": [
+      "therapist",
+      "clinical psychologist"
+    ]
+  },
+  "researcher": {
+    "hypernyms": [
+      "professional",
+      "academic"
+    ],
+    "related": [
+      "research",
+      "experiments",
+      "publications",
+      "discovery"
+    ],
+    "synonyms": [
+      "investigator",
+      "scholar",
+      "scientist"
+    ]
+  },
+  "scientist": {
+    "hypernyms": [
+      "professional",
+      "academic"
+    ],
+    "related": [
+      "science",
+      "research",
+      "experiment",
+      "discovery"
+    ],
+    "synonyms": [
+      "researcher",
+      "investigator"
+    ]
+  },
+  "software engineer": {
+    "hypernyms": [
+      "engineer",
+      "professional",
+      "developer"
+    ],
+    "related": [
+      "programming",
+      "software",
+      "algorithms",
+      "computing"
+    ],
+    "synonyms": [
+      "software developer",
+      "programmer",
+      "coder"
+    ]
+  },
+  "soldier": {
+    "hypernyms": [
+      "military personnel",
+      "professional"
+    ],
+    "related": [
+      "army",
+      "defense",
+      "combat",
+      "military"
+    ],
+    "synonyms": [
+      "serviceman",
+      "trooper"
+    ]
+  },
+  "surgeon": {
+    "hypernyms": [
+      "physician",
+      "doctor",
+      "professional",
+      "medical practitioner"
+    ],
+    "related": [
+      "surgery",
+      "anatomy",
+      "operating room",
+      "hospital"
+    ],
+    "synonyms": [
+      "operating physician",
+      "sawbones"
+    ]
+  },
+  "teacher": {
+    "hypernyms": [
+      "professional",
+      "educator"
+    ],
+    "related": [
+      "education",
+      "classroom",
+      "curriculum",
+      "students"
+    ],
+    "synonyms": [
+      "educator",
+      "instructor",
+      "tutor"
+    ]
+  },
+  "translator": {
+    "hypernyms": [
+      "professional",
+      "communicator"
+    ],
+    "related": [
+      "translation",
+      "language",
+      "localization",
+      "text"
+    ],
+    "synonyms": [
+      "interpreter",
+      "linguist"
+    ]
+  },
+  "veterinarian": {
+    "hypernyms": [
+      "medical practitioner",
+      "professional",
+      "healthcare worker"
+    ],
+    "related": [
+      "veterinary medicine",
+      "animals",
+      "clinic",
+      "diagnosis"
+    ],
+    "synonyms": [
+      "vet",
+      "animal doctor"
+    ]
+  },
+  "writer": {
+    "hypernyms": [
+      "professional",
+      "creator",
+      "communicator"
+    ],
+    "related": [
+      "writing",
+      "literature",
+      "books",
+      "language"
+    ],
+    "synonyms": [
+      "author",
+      "novelist",
+      "wordsmith"
+    ]
+  }
+}

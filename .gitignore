@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Tooling
+.pytest_cache/
+.ipynb_checkpoints/
+site/                     # mkdocs build output
+.mypy_cache/
+
+# Augmentation outputs (don't commit generated graphs/manifests)
+*_augmented.ttl
+augmented.*
+run_manifest.json
+manifest_*.json
+aug_ratio_*.ttl
+
+# OS
+.DS_Store

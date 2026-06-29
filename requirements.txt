@@ -1,0 +1,11 @@
+# Core runtime dependency (everything in the quickstart needs only this):
+rdflib>=6.0
+
+# Recommended for the tutorials, notebooks and visualizations:
+matplotlib>=3.5
+networkx>=2.6
+
+# Optional backends and validation (install only what you need):
+#   pip install "rdf-augmenter[wordnet]"   -> nltk          (WordNet backend)
+#   pip install "rdf-augmenter[bert]"      -> transformers, torch, scikit-learn
+#   pip install "rdf-augmenter[shacl]"     -> pyshacl        (SHACL validation)

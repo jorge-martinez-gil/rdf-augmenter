@@ -1,0 +1,53 @@
+site_name: rdf-augmenter
+site_description: >-
+  Ontology-aware RDF knowledge graph augmentation toolkit. Add synonyms,
+  hypernyms and related terms to RDF graphs with provenance, reproducibility
+  and SHACL validation. RDF data augmentation and semantic web benchmark
+  infrastructure for researchers and practitioners.
+site_url: https://jorge-martinez-gil.github.io/rdf-augmenter/
+repo_url: https://github.com/jorge-martinez-gil/rdf-augmenter
+repo_name: jorge-martinez-gil/rdf-augmenter
+copyright: "© 2024 Jorge Martinez-Gil — MIT License"
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+
+nav:
+  - Home: index.md
+  - Tutorials:
+      - Beginner — Augment your first RDF graph: tutorials/01-beginner-rdf-augmentation.md
+      - Advanced — Ontology-aware augmentation & validation: tutorials/02-advanced-ontology-aware-augmentation.md
+  - Concepts glossary: concepts.md
+  - Exercises: exercises.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jorge-martinez-gil/rdf-augmenter

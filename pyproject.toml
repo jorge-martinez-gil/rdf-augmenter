@@ -1,0 +1,62 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rdf-augmenter"
+version = "0.2.0"
+description = "Ontology-aware augmentation of RDF knowledge graphs: add synonyms, hypernyms and related terms with provenance, reproducibility and SHACL-ready output."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+    { name = "Jorge Martinez-Gil", email = "jorgemarcc@gmail.com" },
+]
+keywords = [
+    "RDF", "knowledge graph", "knowledge graph augmentation",
+    "RDF augmentation", "RDF data augmentation", "semantic web",
+    "ontology", "ontology-aware augmentation", "graph completion",
+    "SKOS", "SHACL", "SPARQL", "data augmentation", "semantic graph augmentation",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+dependencies = [
+    "rdflib>=6.0",
+]
+
+[project.optional-dependencies]
+viz = ["matplotlib>=3.5", "networkx>=2.6"]
+wordnet = ["nltk>=3.7"]
+bert = ["transformers>=4.20", "torch>=1.12", "scikit-learn>=1.0", "numpy>=1.21"]
+shacl = ["pyshacl>=0.20"]
+docs = ["mkdocs>=1.5", "mkdocs-material>=9.0"]
+dev = [
+    "pytest>=7.0",
+    "matplotlib>=3.5", "networkx>=2.6", "pyshacl>=0.20",
+    "nbformat>=5.0", "nbclient>=0.7", "ipykernel>=6.0",
+]
+all = [
+    "matplotlib>=3.5", "networkx>=2.6", "nltk>=3.7",
+    "transformers>=4.20", "torch>=1.12", "scikit-learn>=1.0", "numpy>=1.21",
+    "pyshacl>=0.20",
+]
+
+[project.urls]
+Homepage = "https://github.com/jorge-martinez-gil/rdf-augmenter"
+Repository = "https://github.com/jorge-martinez-gil/rdf-augmenter"
+Documentation = "https://github.com/jorge-martinez-gil/rdf-augmenter/tree/main/docs"
+
+[tool.setuptools]
+packages = ["rdf_augmenter", "rdf_augmenter.data"]
+
+[tool.setuptools.package-data]
+"rdf_augmenter.data" = ["*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,26 @@
+@prefix ex: <http://example.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ex:Person1 ex:name "John" ;
+           ex:occupation "Data Scientist" .
+
+ex:Person2 ex:name "Alice" ;
+           ex:occupation "Surgeon" .
+
+ex:Person3 ex:name "Michael" ;
+           ex:occupation "Architect" .
+
+ex:Person4 ex:name "Sophie" ;
+           ex:occupation "Journalist" .
+
+ex:Person5 ex:name "Emma" ;
+           ex:occupation "Lawyer" .
+
+ex:Person6 ex:name "Noah" ;
+           ex:occupation "Teacher" .
+
+ex:Person7 ex:name "Olivia" ;
+           ex:occupation "Software Engineer" .
+
+ex:Person8 ex:name "Liam" ;
+           ex:occupation "Pharmacist" .
